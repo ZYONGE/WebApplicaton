@@ -23,6 +23,9 @@ catalina.out
 # VS Code
 .vscode/
 
+# Claude Code session state / worktrees
+.claude/
+
 # Archives / editor backups
 *.zip
 *~

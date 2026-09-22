@@ -53,7 +53,7 @@ body {
 }
 #bannerset {
 	width: 1024px;
-	margin: 0 auto;
+	height: 107px;
 }
 .banner1, .banner2, .banner3 {
 	float: left;
